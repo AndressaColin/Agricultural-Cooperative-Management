@@ -1,0 +1,14 @@
+
+Mais double areaCultivada
+Funcionalidades:
+String registrarColheita() o retorno deve ser a frase: Registrando colheita
+Distribuidor
+Atributos:
+
+Mesmos atributos de MembroCooperativa
+Mais String regiaoAtendida
+Funcionalidades:
+
+String realizandoEntrega() o retorno deve ser a frase: Realizando entrega na regiao: {regiaoAtendida}, onde o conteúdo entre {} deve ser dinâmico com base no atributo do distribuidor.
+Obs.: Lembre-se de utilizar encapsulamento para proteção dos dados.
+
