@@ -1,6 +1,6 @@
 # Agricultural Cooperative Management Application
 
-Welcome to our Agricultural Cooperative Management Application! This software is designed to streamline the operations of agricultural cooperatives, making it easier for farmers and distributors to manage their activities effectively.
+This software is designed to streamline the operations of agricultural cooperatives, making it easier for farmers and distributors to manage their activities effectively.
 
 **Features**
 
